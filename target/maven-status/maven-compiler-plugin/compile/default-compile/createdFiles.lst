@@ -1,0 +1,5 @@
+com\gym\controller\ProductController.class
+com\gym\controller\CategoryController.class
+com\gym\controller\PageController.class
+com\gym\controller\CartItemController.class
+com\gym\controller\CustomerController.class
